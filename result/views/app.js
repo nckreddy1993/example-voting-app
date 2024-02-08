@@ -1,4 +1,4 @@
-var app = angular.module('CSKvsRCB', []);
+var app = angular.module('JaganvsPSPK', []);
 var socket = io.connect({transports:['polling']});
 
 var bg1 = document.getElementById('background-stats-1');
